@@ -1,4 +1,4 @@
-GitStudy
+GitStudywith
 ========
 
 This document is for study
